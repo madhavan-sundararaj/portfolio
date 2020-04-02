@@ -17,6 +17,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.4;
+    background: var(--primary-color);
 }
 
 .container{
@@ -27,7 +28,6 @@ body {
 }
 
 #showcase {
-    background: var(--primary-color);
     color: #fff;
     height: 100vh;
     position: relative;
@@ -54,7 +54,7 @@ body {
 }
 
 #showcase h1{
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 #showcase p {
